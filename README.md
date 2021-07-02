@@ -1,4 +1,4 @@
-# <img src="CrypcomLOGO.png" width="100" height="90"> FOTÓNICA EN EL CÁNCER DE PRÓSTATA
+# <img src="potenciatumor.png" width="100" height="90"> FOTÓNICA EN EL CÁNCER DE PRÓSTATA
 
 
 Trabajo realizado en la UC3M en Fotónica sobre el uso de láser en cáncer de próstata.
